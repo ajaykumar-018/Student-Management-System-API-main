@@ -32,7 +32,7 @@ student-management-system/
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/iamajaykr06/Student-Management-System-API.git
+git clone https://github.com/ajaykumar-018/Student-Management-System-API.git
 cd Student-Management-System-API
 ```
 
